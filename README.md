@@ -9,3 +9,7 @@ Controls:
 'D': Rotate clockwise
 'S': Rotate counter-clockwise
 'Space': Shoot beam
+
+Sprites:
+Sprites and sound files are contained in bin/data
+If they are not loaded in, the game will still be playable
